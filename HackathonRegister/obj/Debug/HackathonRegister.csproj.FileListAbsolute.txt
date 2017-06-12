@@ -1,0 +1,6 @@
+c:\users\thabang.lekoto\documents\visual studio 2015\Projects\HackathonRegister\HackathonRegister\bin\Debug\HackathonRegister.exe.config
+c:\users\thabang.lekoto\documents\visual studio 2015\Projects\HackathonRegister\HackathonRegister\bin\Debug\HackathonRegister.exe
+c:\users\thabang.lekoto\documents\visual studio 2015\Projects\HackathonRegister\HackathonRegister\bin\Debug\HackathonRegister.pdb
+c:\users\thabang.lekoto\documents\visual studio 2015\Projects\HackathonRegister\HackathonRegister\obj\Debug\HackathonRegister.csprojResolveAssemblyReference.cache
+c:\users\thabang.lekoto\documents\visual studio 2015\Projects\HackathonRegister\HackathonRegister\obj\Debug\HackathonRegister.exe
+c:\users\thabang.lekoto\documents\visual studio 2015\Projects\HackathonRegister\HackathonRegister\obj\Debug\HackathonRegister.pdb
